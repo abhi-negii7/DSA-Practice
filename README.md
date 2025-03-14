@@ -2,9 +2,11 @@
 Welcome to my Data Structures and Algorithms (DSA) Practice repository! 🚀 This repository contains my solutions to various DSA problems, covering fundamental and advanced concepts.
 
 ✨ Topics Covered
-✔ Arrays & Strings
+✔ Array
+✔ Binary Search
 ✔ Linked Lists
 ✔ Stacks & Queues
+✔ Recursion
 
 🔥 Problem Sources
 I am solving problems from various platforms, including:
